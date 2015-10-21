@@ -34,6 +34,7 @@
 
 * [nqdeng/7-days-nodejs](https://github.com/nqdeng/7-days-nodejs)
 * [alsotang/node-lessons](https://github.com/alsotang/node-lessons)
+* [nodeCloud](http://www.nodecloud.org/)
 
 
 ###liunx
