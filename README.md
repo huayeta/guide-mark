@@ -25,7 +25,7 @@
 * [Neeke / SeasLog](https://github.com/Neeke/SeasLog)
 * [ysboss/tinyhttpd](https://github.com/ysboss/tinyhttpd)
 * [reeze/php-ext-embed](https://github.com/reeze/php-ext-embed)
-###UED
+###FE
 
 * [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial)
 * [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery)
@@ -100,7 +100,9 @@
 * [taobao](http://ued.taobao.org/blog/category/bowen/frontend/)
 * [baidu efe](http://efe.baidu.com/)
 * [mozilla MDN](https://developer.mozilla.org/zh-CN/docs/Web)
+
 ###FE lecture
+
 * [前端圈](http://www.fequan.com/)
-* [饥人谷]（http://kejian.jirengu.com/）
+* [饥人谷](http://kejian.jirengu.com/)
 * 
