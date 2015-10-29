@@ -94,11 +94,11 @@
 
 ##Blog
 ###FE
-* [tencent](http://isux.tencent.com/category/fd)
-* [360](http://www.75team.com/)
-* [baidu fex](http://fex.baidu.com/)
-* [taobao](http://ued.taobao.org/blog/category/bowen/frontend/)
-* [baidu efe](http://efe.baidu.com/)
+* [tencent SUX](http://isux.tencent.com/category/fd)
+* [360 奇舞团](http://www.75team.com/)
+* [baidu FEX](http://fex.baidu.com/)
+* [taobao UED](http://ued.taobao.org/blog/category/bowen/frontend/)
+* [baidu EFE](http://efe.baidu.com/)
 * [mozilla MDN](https://developer.mozilla.org/zh-CN/docs/Web)
 
 ###FE lecture
