@@ -89,3 +89,18 @@
 * [hightman/pspider](https://github.com/hightman/pspider)
 * [Qihoo360 / phptrace](https://github.com/Qihoo360/phptrace)
 * [Flowerowl / python_articles](https://github.com/Flowerowl/python_articles)
+* 
+
+
+##Blog
+###FE
+* [tencent](http://isux.tencent.com/category/fd)
+* [360](http://www.75team.com/)
+* [baidu fex](http://fex.baidu.com/)
+* [taobao](http://ued.taobao.org/blog/category/bowen/frontend/)
+* [baidu efe](http://efe.baidu.com/)
+* [mozilla MDN](https://developer.mozilla.org/zh-CN/docs/Web)
+###FE lecture
+* [前端圈](http://www.fequan.com/)
+* [饥人谷]（http://kejian.jirengu.com/）
+* 
