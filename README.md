@@ -6,7 +6,7 @@
 
 * [ikaras/yii2-oauth2-rest-template](https://github.com/ikaras/yii2-oauth2-rest-template/tree/master/application/api)
 * [yiichina/yii2](https://github.com/yiichina/yii2)
-* [trntv/yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) yii用法示例
+* [trntv/yii2-starter-kit](https://github.com/trntv/yii2-starter-kit)
 * [PizzaLiu / PHP-FIG](https://github.com/PizzaLiu/PHP-FIG)
 * [swoole/swoole-src](https://github.com/swoole/swoole-src)
 * [swoole/framework](https://github.com/swoole/framework)
