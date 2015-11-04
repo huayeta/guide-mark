@@ -100,6 +100,7 @@
 * [taobao UED](http://ued.taobao.org/blog/category/bowen/frontend/)
 * [baidu EFE](http://efe.baidu.com/)
 * [mozilla MDN](https://developer.mozilla.org/zh-CN/docs/Web)
+* [tecent Alloy team](http://alloyteam.github.io/)
 
 ###FE lecture
 
