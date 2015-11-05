@@ -31,6 +31,7 @@
 * [nunjucks](http://mozilla.github.io/nunjucks/cn/templating.html)
 * [sass](http://www.w3cplus.com/sassguide/syntax.html)
 * [requireJs](http://www.requirejs.cn/)
+* [npm](https://docs.npmjs.com/getting-started/what-is-npm)
 
 
 ####>>BLOG
