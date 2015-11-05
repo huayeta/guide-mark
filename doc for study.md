@@ -25,6 +25,9 @@
 * [memcache全面剖析](http://blog.charlee.li/memcached-pdf/)
 * [git教程廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [极客学院wiki](http://wiki.jikexueyuan.com/)
+* [mysql -optimization](http://dev.mysql.com/doc/refman/5.6/en/optimization.html)
+* [mysql-internal](http://dev.mysql.com/doc/internals/en/)
+* [taobao-mysql](http://mysql.taobao.org/index.php?title=%E8%B5%84%E6%96%99%E5%85%B1%E4%BA%AB)
 
 
 ####>>BLOG
