@@ -1,12 +1,5 @@
 ###docs for study
 
-####>>Tool
-*  [emmet doc](http://docs.emmet.io/cheat-sheet/)
-*  [win phpext](http://windows.php.net/downloads/pecl/releases/)
-*  [Git Community Book 中文版](http://gitbook.liuhui998.com/)
-*  [css88](http://www.css88.com/book/css/)
-*  [souhu镜像](http://mirrors.sohu.com/)
-
 ####>>PHP
 *   [pecl](https://pecl.php.net/packages.php)
 
