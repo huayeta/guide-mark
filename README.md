@@ -113,4 +113,4 @@
 
 * [前端圈](http://www.fequan.com/)
 * [饥人谷](http://kejian.jirengu.com/)
-* 
+* [velocity.oreilly](http://velocity.oreilly.com.cn/2015/index.php?func=schedule)
