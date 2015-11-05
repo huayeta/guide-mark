@@ -1,12 +1,11 @@
 # guide-mark
 
->本列表会随时更新
+>本列表仅是个人为了寻找资料方便，未作授权请各作者见谅！
 
 >Mainly to collect some information
 
 ####ref
 * [计算机科学精彩帖子收集](http://blog.csdn.net/unix21/article/details/8492617)
-* [code school](https://www.codeschool.com/)
 
 ###PHP
 
@@ -21,6 +20,9 @@
 * [luofei614/SocketLog](https://github.com/luofei614/SocketLog)
 * [slimphp/Slim](https://github.com/slimphp/Slim)
 * [TinyLara/TinyLara](https://github.com/TinyLara/TinyLara)
+* [win phpext](http://windows.php.net/downloads/pecl/releases/)
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/)
+* [css88](http://www.css88.com/book/css/)
 
 ####phpext
 
@@ -31,8 +33,21 @@
 * [Neeke / SeasLog](https://github.com/Neeke/SeasLog)
 * [ysboss/tinyhttpd](https://github.com/ysboss/tinyhttpd)
 * [reeze/php-ext-embed](https://github.com/reeze/php-ext-embed)
+
+
 ###FE
 
+* [tencent SUX](http://isux.tencent.com/category/fd)
+* [360 奇舞团](http://www.75team.com/)
+* [baidu FEX](http://fex.baidu.com/)
+* [taobao UED](http://ued.taobao.org/blog/category/bowen/frontend/)
+* [baidu EFE](http://efe.baidu.com/)
+* [mozilla MDN](https://developer.mozilla.org/zh-CN/docs/Web)
+* [tecent Alloy team](http://alloyteam.github.io/)
+* [前端圈](http://www.fequan.com/)
+* [饥人谷](http://kejian.jirengu.com/)
+* [code school](https://www.codeschool.com/)
+* [velocity.oreilly](http://velocity.oreilly.com.cn/2015/index.php?func=schedule)
 * [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial)
 * [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery)
 * [fouber / blog](https://github.com/fouber/blog)
@@ -40,6 +55,8 @@
 * [youmightnotneedjquery](http://youmightnotneedjquery.com/)
 * [javascript-puzzlers](http://javascript-puzzlers.herokuapp.com/)
 * [js-stackoverflow-highest-votes](https://github.com/yujiangshui/js-stackoverflow-highest-votes)
+
+
 ####nodeJs
 
 * [nqdeng/7-days-nodejs](https://github.com/nqdeng/7-days-nodejs)
@@ -47,28 +64,25 @@
 * [nodeCloud](http://www.nodecloud.org/)
 
 
-###liunx
+###end-server
+
+#### C
+* [examplecode/mproxy](https://github.com/examplecode/mproxy)
+
+#### webServer && db && cache
 
 * [wklken/linux_config](https://github.com/wklken/linux_config)
 * [Supervisor/supervisor](https://github.com/Supervisor/supervisor)
-
-###other
-
-* [examplecode/mproxy](https://github.com/examplecode/mproxy)
+* [tg123 / commandlinefu.cn](https://github.com/tg123/commandlinefu.cn)
+* [alibaba/tengine](https://github.com/alibaba/tengine)
+* [qinjx/puppet-example](https://github.com/qinjx/puppet-example)
+* [alibaba/cobar](https://github.com/alibaba/cobar)
 
 ####protoco
 
 * [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide) HTTP 接口设计指北
 * [ZhangBohan/http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) HTTP API 设计指南
 * [jeansfish/RFC6749.zh-cn](https://github.com/jeansfish/RFC6749.zh-cn)
-
-####webServer && db && cache
-
-* [VundleVim / Vundle.vim](https://github.com/VundleVim/Vundle.vim)
-* [tg123 / commandlinefu.cn](https://github.com/tg123/commandlinefu.cn)
-* [alibaba/tengine](https://github.com/alibaba/tengine)
-* [qinjx/puppet-example](https://github.com/qinjx/puppet-example)
-* [alibaba/cobar](https://github.com/alibaba/cobar)
 
 
 ###other guide-mark
@@ -99,20 +113,4 @@
 * [hightman/pspider](https://github.com/hightman/pspider)
 * [Qihoo360 / phptrace](https://github.com/Qihoo360/phptrace)
 * [Flowerowl / python_articles](https://github.com/Flowerowl/python_articles)
-* 
-
-##Blog
-###FE
-* [tencent SUX](http://isux.tencent.com/category/fd)
-* [360 奇舞团](http://www.75team.com/)
-* [baidu FEX](http://fex.baidu.com/)
-* [taobao UED](http://ued.taobao.org/blog/category/bowen/frontend/)
-* [baidu EFE](http://efe.baidu.com/)
-* [mozilla MDN](https://developer.mozilla.org/zh-CN/docs/Web)
-* [tecent Alloy team](http://alloyteam.github.io/)
-
-###FE lecture
-
-* [前端圈](http://www.fequan.com/)
-* [饥人谷](http://kejian.jirengu.com/)
-* [velocity.oreilly](http://velocity.oreilly.com.cn/2015/index.php?func=schedule)
+* [VundleVim / Vundle.vim](https://github.com/VundleVim/Vundle.vim)
