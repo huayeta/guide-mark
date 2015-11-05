@@ -4,6 +4,9 @@
 
 >Mainly to collect some information
 
+####ref
+* [计算机科学精彩帖子收集](http://blog.csdn.net/unix21/article/details/8492617)
+
 ###PHP
 
 * [ikaras/yii2-oauth2-rest-template](https://github.com/ikaras/yii2-oauth2-rest-template/tree/master/application/api)
