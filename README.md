@@ -37,6 +37,7 @@
 
 ###FE
 
+* [FED club](http://f2er.club/)
 * [tencent SUX](http://isux.tencent.com/category/fd)
 * [360 奇舞团](http://www.75team.com/)
 * [baidu FEX](http://fex.baidu.com/)
