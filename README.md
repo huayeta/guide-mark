@@ -39,6 +39,7 @@
 
 * [FED club](http://f2er.club/)
 * [tencent SUX](http://isux.tencent.com/category/fd)
+* [tecent HTML 5](http://cube.qq.com/)
 * [360 奇舞团](http://www.75team.com/)
 * [baidu FEX](http://fex.baidu.com/)
 * [taobao UED](http://ued.taobao.org/blog/category/bowen/frontend/)
