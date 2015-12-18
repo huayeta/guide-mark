@@ -6,6 +6,7 @@
 
 ####ref
 * [计算机科学精彩帖子收集](http://blog.csdn.net/unix21/article/details/8492617)
+* [oschina 在线工具](http://tool.oschina.net/)
 
 ###PHP
 
@@ -71,6 +72,7 @@
 
 #### C
 * [examplecode/mproxy](https://github.com/examplecode/mproxy)
+* [liunx c function](http://net.pku.edu.cn/~yhf/linux_c/)
 
 #### webServer && db && cache
 
