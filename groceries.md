@@ -56,6 +56,7 @@
 * [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery)
 * [fouber / blog](https://github.com/fouber/blog)
 * [学习css布局](http://zh.learnlayout.com/toc.html)
+* [canvas](http://jo2.org/html5-canvas-tutorial-list/)
 * [youmightnotneedjquery](http://youmightnotneedjquery.com/)
 * [javascript-puzzlers](http://javascript-puzzlers.herokuapp.com/)
 * [js-stackoverflow-highest-votes](https://github.com/yujiangshui/js-stackoverflow-highest-votes)
