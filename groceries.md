@@ -7,6 +7,7 @@
 ####ref
 * [计算机科学精彩帖子收集](http://blog.csdn.net/unix21/article/details/8492617)
 * [oschina 在线工具](http://tool.oschina.net/)
+* [看云](http://www.kancloud.cn/explore)
 
 ###PHP
 
@@ -60,6 +61,7 @@
 * [youmightnotneedjquery](http://youmightnotneedjquery.com/)
 * [javascript-puzzlers](http://javascript-puzzlers.herokuapp.com/)
 * [js-stackoverflow-highest-votes](https://github.com/yujiangshui/js-stackoverflow-highest-votes)
+* [learn es2015](http://babeljs.io/docs/plugins/)
 
 
 ####nodeJs
